@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Exo+2");
+/* Coolors Exported Palette - coolors.co/88ccf1-c1dff0-f1e8b8-b8336a-25283d */
+/* RGB */
+html {
+  background-color: #25283d;
+  color: #e91e63; }
+
+a {
+  color: #88ccf1; }
+  a:hover, a:focus {
+    color: #c1dff0; }
+
+html {
+  font-family: 'Exo 2', sans-serif; }
+
+h1 {
+  color: #E91E63;
+  padding: 0px 0px 0px 20px;
+  display: inline; }
+
+#page-center {
+  height: 100%;
+  background-color: #88ccf1;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -webkit-border-radius: 15px;
+  border-radius: 15px; }
+
+/*# sourceMappingURL=style.css.map */
