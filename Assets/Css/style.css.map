@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AACQ,4DAAoD;ACD5D,8EAA8E;AAC9E,SAAS;ACCT,IAAI;EACA,gBAAgB,EDGX,OAAmB;ECFxB,KAAK,EDGI,OAAiB;;ACD9B,CAAC;EACG,KAAK,EDLA,OAAsB;EEQ3B,gBACA;IDDI,KAAK,EDPJ,OAAsB;;AGD/B,IAAI;EACA,WAAW,EAAE,mBAAmB;;AAGpC,EAAE;EACE,KAAK,EAAE,OAAO;EACd,OAAO,EAAE,gBAAgB;EACzB,OAAO,EAAE,MAAM;;AAGnB,YAAY;EACR,MAAM,EAAE,IAAI;EACZ,gBAAgB,EHZX,OAAsB;EEA3B,kBAAiB,EAAC,IAAM;EACxB,iBAAgB,EAAC,IAAM;EACvB,qBAAoB,EAAC,IAAM;EAC3B,aAAY,EAAC,IAAM",
-"sources": ["../../../Source/Sass/Base/_base.fonts.scss","../../../Source/Sass/Base/_base.palette.scss","../../../Source/Sass/Base/_base.theme.scss","../../../Source/Sass/Base/_base.mixins.scss","../../../Source/Sass/style.scss"],
-"names": [],
-"file": "style.css"
-}
