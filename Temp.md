@@ -17,4 +17,4 @@ WhiteSky@Live.cn
     熟练WPF框架, 了解UWP, ASP.Net, Entity Framework, Spring Boot
 	熟悉MVVM,MCV架构, 了解Git, Github使用
 	了解Factory Pattern等Design Pattern
-	CET-4, 本科（目前大三）,自学能力强, 有责任心并追求一定水准, 善于交流
+	CET-4, 本科,自学能力强, 有责任心并追求一定水准, 善于交流
