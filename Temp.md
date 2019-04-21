@@ -14,7 +14,7 @@ WhiteSky@Live.cn
 	https://www.bilibili.com/video/av40918395
 ## 专业技能
 	*熟练掌握C#, HTML5, 了解C/C++, Java, JS, Ruby, Python, HLSL, SQL Server
-    	*熟练WPF框架, 了解UWP, ASP.Net, Entity Framework, Spring Boot
+    *熟练WPF框架, 了解UWP, ASP.Net, Entity Framework, Spring Boot
 	*熟悉MVVM,MCV架构, 了解Git, Github使用
 	*了解Factory Pattern等Design Pattern
 	*CET-4, 本科,自学能力强, 有责任心并追求一定水准, 善于交流
